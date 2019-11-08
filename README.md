@@ -1,3 +1,4 @@
 # D3
 ### Viz comparing people lacking healthcare and people in poverty by state
-Data from the census bureau
+To open, right click on index.html in Visual Studio Code and choose open with Live Server (must have Live Server installed).
+The data is from the U.S. Census Bureau.
